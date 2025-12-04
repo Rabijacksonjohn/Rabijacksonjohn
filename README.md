@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Jax  
+Backend Developer | Cybersecurity Learner 
 
-<!--
-**Rabijacksonjohn/Rabijacksonjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building secure, scalable, and production-ready backend systems.  
+My work includes REST APIs, database architecture, authentication/authorization, cloud deployment, and performance optimization.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Backend:** Node.js, Express  
+- **Databases:** MongoDB, PostgreSQL, Neon  
+- **Tools:** Git, Postman, Nodemon  
+- **Cloud:** Render, Netlify, AWS (learning)  
+- **Security:** Basic cybersecurity concepts, API security, firewall configuration  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm doing now
+- Developing backend projects for real-world use cases  
+- Learning cloud and scalable architecture  
+- Exploring cybersecurity + server hardening  
+- Building mobile apps with Flutter  
+
+### 🌱 Goal
+To become a strong full-stack/backend engineer and contribute to impactful open-source projects.
