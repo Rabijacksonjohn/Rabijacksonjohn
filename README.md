@@ -41,8 +41,6 @@ My focus areas include **intrusion detection, log analysis, network security, an
 ---
 
 ## 🚀 What I’m Working On
-- Building and improving **Host-Based Intrusion Detection Systems (HIDS)**
-- Practicing **port scanning, log-based threat detection**
 - Learning **SOC fundamentals and server hardening**
 - Strengthening **Linux and networking skills**
 - Developing security-related tools using Python
